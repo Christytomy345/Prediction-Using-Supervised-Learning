@@ -3,3 +3,4 @@ Here, the dataset provided to us includes the list of students that studies hour
 Our motive is to create a machine learning model and train it with the given data. 
 So that, it can predict the score of a student given the number of hours they study per day. 
 Dataset= http://bit.ly/w-data
+A pdf format of the ipynb file of the program along with its output is also uploaded as a file.
